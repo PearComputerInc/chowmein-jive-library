@@ -1,17 +1,18 @@
-# Compiled class file
-*.class
+# Device bridge files
+*.db
 
 # Log file
 *.log
 
-# BlueJ files
-*.ctxt
+# Jive files
+*.jive
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# chowmein Folder for Jive (JLF)
+chowmein/
 
 # Package Files #
 *.jar
+*.jcf
 *.war
 *.nar
 *.ear
@@ -19,5 +20,5 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# Jive crash logs
+jive-crash*
