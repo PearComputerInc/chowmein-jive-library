@@ -1,0 +1,21 @@
+import {
+	pastabridge
+}
+main() {
+	from pastabridge import {
+		pastaos
+	}
+	connect.pastaos {
+		os
+		binder
+		cpu
+		ram
+		gpu
+		keyboard
+		mouse
+		wifi
+		ethernet
+		battery
+		screen
+	}
+}

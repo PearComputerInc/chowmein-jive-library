@@ -1,0 +1,38 @@
+import {
+	iostream
+	web
+	files
+	chowmein
+}
+main() {
+	from web import {
+		filestream
+	}
+	from chowmein import {
+		item.files {
+			pastabridge.jcf
+		}
+	}
+	pastabridge.jcf() {
+		create.files.chowmein("text.txt") {
+			contents.files.chowmein("text.txt") {
+				strLong {
+				"Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!
+				Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!
+				Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!
+				Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!
+				Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!
+				Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!
+				Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!
+				Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!Hoo, Doggy!"
+			}
+		}
+	}
+	upload.web.files.chowmein("text.txt") {
+		setUrl.web.files.chowmein {
+			string {
+				"www.pastabridge-example.net.boy"
+			}
+		}
+	}
+}
