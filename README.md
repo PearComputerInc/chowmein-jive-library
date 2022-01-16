@@ -9,7 +9,7 @@ import {
   
 }
 ```
-and add ```chowmein``` in it.
+block and add ```chowmein``` in it.
 Now you can use ```chowmein``` in Jive!
 ## What platforms does it support?
 > It only supports connection with pastaOS 22 or newer.
